@@ -8,7 +8,8 @@ The objective of this project is to use SQL and Excel habilities to answer this 
 - Microsoft SQL server to query the answers
 - Microsoft Excel to also query the answers and for data visualization.
 - Microsoft Power BI will be used for data visualization of the SQL queries, but is not published yet
-==========================================================================================================
+========================================================================
+
 
 # Challenge
 
@@ -25,7 +26,8 @@ Imagine yourself as the applicant for this role and perform the following task
 1.    Check ‘ad-hoc-requests.pdf’ - there are 10 ad hoc requests for which the business needs insights.
 2.    You need to run a SQL query to answer these requests. 
 3.    The target audience of this dashboard is top-level management
-=====================================================================================================
+===================================================================
+
 # solutions
 - To watch the solutions check the SQL_challenge_consumer_goods_insights.sql file
 - to watch the queries check the SQL_challenge_consumer_goods_insights.txt file
