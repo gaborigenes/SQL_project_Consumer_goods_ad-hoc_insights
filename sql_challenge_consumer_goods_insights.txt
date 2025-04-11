@@ -1,0 +1,115 @@
+market
+--------------------------------------------------
+Australia
+Bangladesh
+India
+Indonesia
+Japan
+Newzealand
+Philiphines
+South Korea
+
+(8 rows affected)
+
+unique_products_2020 unique_products_2021 percentage_chg
+-------------------- -------------------- ---------------------------------------
+245                  334                  36.330000000000
+
+(1 row affected)
+
+segment                                            product_count
+-------------------------------------------------- -------------
+Notebook                                           129
+Accessories                                        116
+Peripherals                                        84
+Desktop                                            32
+Storage                                            27
+Networking                                         9
+
+(6 rows affected)
+
+segment                                            product_count_2020 product_count_2021 difference
+-------------------------------------------------- ------------------ ------------------ -----------
+Accessories                                        69                 103                34
+Desktop                                            7                  22                 15
+Networking                                         6                  9                  3
+Notebook                                           92                 108                16
+Peripherals                                        59                 75                 16
+Storage                                            12                 17                 5
+
+(6 rows affected)
+
+product_code                                       product                                                                                              manufacturing_cost
+-------------------------------------------------- ---------------------------------------------------------------------------------------------------- ----------------------
+A2219150204                                        AQ Master wireless x1 Ms                                                                             22
+A6120110206                                        AQ HOME Allin1 Gen 2                                                                                 2405364
+
+(2 rows affected)
+
+customer_code customer                                           average_discount_percentage
+------------- -------------------------------------------------- ---------------------------
+90002009      Flipkart                                           3083
+90002006      Viveks                                             3038
+90002003      Ezone                                              3028
+90002002      Croma                                              3025
+90002016      Amazon                                             2933
+
+(5 rows affected)
+
+month                          year        gross_sales_amount
+------------------------------ ----------- -------------------------
+September                      2019        84838.2 M
+October                        2019        96245.7 M
+November                       2019        142503 M
+December                       2019        90913.1 M
+January                        2020        89269.1 M
+February                       2020        75314.4 M
+March                          2020        7131.1 M
+April                          2020        7386.72 M
+May                            2020        14705.6 M
+June                           2020        31641.4 M
+July                           2020        47968 M
+August                         2020        52137.8 M
+September                      2020        178704 M
+October                        2020        193643 M
+November                       2020        296628 M
+December                       2020        186551 M
+January                        2021        179339 M
+February                       2021        146805 M
+March                          2021        176115 M
+April                          2021        105220 M
+May                            2021        176206 M
+June                           2021        142116 M
+July                           2021        174539 M
+August                         2021        104358 M
+
+(24 rows affected)
+
+quarters    total_sold_quantity
+----------- -------------------
+1           7005619
+2           6649642
+3           2075087
+4           5042541
+
+(4 rows affected)
+
+channel                                            gross_sale_mln         Percentage
+-------------------------------------------------- ---------------------- ----------------------
+Retailer                                           17670612618382         73,21
+Direct                                             3736029880017          15,48
+Distributor                                        2731811947153          11,32
+
+(3 rows affected)
+
+division                                           product_code                                       product                                                                                              total_sold_quantity rank_order
+-------------------------------------------------- -------------------------------------------------- ---------------------------------------------------------------------------------------------------- ------------------- --------------------
+N & S                                              A6720160103                                        AQ Pen Drive 2 IN 1                                                                                  701373              1
+N & S                                              A6818160202                                        AQ Pen Drive DRC                                                                                     688003              2
+N & S                                              A6819160203                                        AQ Pen Drive DRC                                                                                     676245              3
+P & A                                              A2319150302                                        AQ Gamers Ms                                                                                         428498              1
+P & A                                              A2520150501                                        AQ Maxima Ms                                                                                         419865              2
+P & A                                              A2520150504                                        AQ Maxima Ms                                                                                         419471              3
+PC                                                 A4218110202                                        AQ Digit                                                                                             17434               1
+PC                                                 A4319110306                                        AQ Velocity                                                                                          17280               2
+PC                                                 A4218110208                                        AQ Digit    
